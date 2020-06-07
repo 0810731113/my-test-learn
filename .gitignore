@@ -1,0 +1,7 @@
+node_modules
+/_cache
+.DS_Store
+.idea
+package-lock.json
+.gitignore
+yarn.lock
