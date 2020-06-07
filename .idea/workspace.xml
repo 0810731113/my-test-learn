@@ -4,15 +4,12 @@
     <list default="true" id="a18702ce-e4dc-4dc7-ad8f-d1733d869e04" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/.tmp/" />
-    <ignored path="$PROJECT_DIR$/temp/" />
-    <ignored path="$PROJECT_DIR$/tmp/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+<<<<<<< HEAD
   <component name="FUSProjectUsageTrigger">
     <session id="677722018">
       <usages-collector id="statistics.lifecycle.project">
@@ -166,6 +163,8 @@
       </file>
     </leaf>
   </component>
+=======
+>>>>>>> c49129d9aa490c3e1c58398edced6676516b992e
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -192,26 +191,13 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/test1.js" />
-        <option value="$PROJECT_DIR$/test2.js" />
-        <option value="$PROJECT_DIR$/promise.js" />
-        <option value="$PROJECT_DIR$/promiseTest.js" />
-        <option value="$PROJECT_DIR$/SingleDesignMode.js" />
-        <option value="$PROJECT_DIR$/composeTest1.js" />
-      </list>
-    </option>
-  </component>
-  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsFlowSettings">
     <service-enabled>true</service-enabled>
     <exe-path />
     <other-services-enabled>true</other-services-enabled>
     <auto-save>true</auto-save>
   </component>
+<<<<<<< HEAD
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
@@ -239,11 +225,16 @@
     </packageJsonPaths>
   </component>
   <component name="ProjectFrameBounds" extendedState="1">
+=======
+  <component name="ProjectFrameBounds">
+>>>>>>> c49129d9aa490c3e1c58398edced6676516b992e
     <option name="x" value="6" />
     <option name="width" value="1872" />
     <option name="height" value="1037" />
   </component>
+  <component name="ProjectId" id="1ciWZWtu4tSrmpRigyqCFrrZqKS" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+<<<<<<< HEAD
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -273,6 +264,12 @@
         </subPane>
       </pane>
     </panes>
+=======
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+>>>>>>> c49129d9aa490c3e1c58398edced6676516b992e
   </component>
   <component name="PropertiesComponent">
     <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
@@ -292,15 +289,15 @@
       <recent name="G:\frontEnd\jsTest" />
     </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
+  <component name="ServiceViewManager">
+    <option name="viewStates">
       <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
       </list>
     </option>
   </component>
@@ -317,6 +314,7 @@
       <workItem from="1550496796560" duration="8049000" />
       <workItem from="1551535057613" duration="264000" />
       <workItem from="1590311343478" duration="17238000" />
+<<<<<<< HEAD
       <workItem from="1590941970664" duration="3005000" />
       <workItem from="1591512741657" duration="1211000" />
     </task>
@@ -587,4 +585,13 @@
       </provider>
     </entry>
   </component>
+=======
+      <workItem from="1591011951833" duration="655000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+>>>>>>> c49129d9aa490c3e1c58398edced6676516b992e
 </project>
