@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a18702ce-e4dc-4dc7-ad8f-d1733d869e04" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/promiseDemo1.js" beforeDir="false" afterPath="$PROJECT_DIR$/promiseDemo1.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,11 +36,6 @@
     <other-services-enabled>true</other-services-enabled>
     <auto-save>true</auto-save>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="6" />
-    <option name="width" value="1872" />
-    <option name="height" value="1035" />
-  </component>
   <component name="ProjectId" id="1ciWZWtu4tSrmpRigyqCFrrZqKS" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -61,6 +58,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\js\my-test-learn" />
       <recent name="G:\frontEnd\jsTest" />
     </key>
   </component>
@@ -89,7 +87,7 @@
       <workItem from="1550496796560" duration="8049000" />
       <workItem from="1551535057613" duration="264000" />
       <workItem from="1590311343478" duration="17238000" />
-      <workItem from="1591011951833" duration="655000" />
+      <workItem from="1591011951833" duration="2641000" />
     </task>
     <servers />
   </component>

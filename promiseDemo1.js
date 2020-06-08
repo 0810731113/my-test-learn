@@ -8,9 +8,9 @@ const syncFun = (second) => {
 }
 
 //
-const syncFunArr = [2,8,4,6,4];
+const syncFunArr = [2,8,4,6,3];
 
-//依次输出 2,4,8,,6     //同一时间只能执行两个函数，直到最后
+//依次输出 2,4,8,2,6     //同一时间只能执行两个函数，直到最后
 
 function excuter(funcArr){
     const arr = funcArr;
